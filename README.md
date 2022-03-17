@@ -6,3 +6,4 @@ Insert NinOS directory in PSP/GAME and run it :)
 <br><br><br>
 <h1>Some screen :) </h1>
 <img src = "screen/PSteamP.png" height = 272px ></img>
+<img src = "screen/explorer.png" height = 272px ></img>
