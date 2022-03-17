@@ -2,5 +2,7 @@
 NinOS is a PSP gui written in lua that uses the OneLua4R1 interpreter. Some functions may not work properly.
 <br><br><br>
 Insert NinOS directory in PSP/GAME and run it :)
-
-<img src = "screen/PSteamP.png"></img>
+<br><br><br>
+<br><br><br>
+<h1>Some screen :) </h1>
+<img src = "screen/PSteamP.png" height = 272px ></img>
