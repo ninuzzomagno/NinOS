@@ -1,0 +1,5 @@
+local fid=io.open("ms0:/PSP/GAME/NINOS/SYSTEM/SYSTEM32/MODULE/bitratePRX.txt","w")
+local fd=io.open("ms0:/PSP/GAME/NINOS/SYSTEM/SYSTEM32/MODULE/bitrateLOG.txt","r")
+fid:write(GetBitrateMp3(fd:read()))
+fd:close()
+fid:close()
